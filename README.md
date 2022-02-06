@@ -1,4 +1,4 @@
-# hola-mundo
+# hOLA MUNDO
 Repositorio de prueba
 
 Autor: Diego M. Roque Rangel
